@@ -1,0 +1,35 @@
+
+
+=== Test Artifact Management ===
+
+5. As test engineer, what do you expect you to receive as input?
+expected input types, examples of input parameters and if possible any special cases of the input.
+
+6. As test engineer, what would you generate as a result of output?
+As an output, I will generate a pass/fail for specific test cases in addition to following- 
+Quality: information about the quality of the software, 
+Acceptability: if it meets the quality expected by the end user
+Usability: if a feature is usable
+Performance: if it is up to standards.
+
+Concept Questions
+=================
+7. Describe the software development life cycle
+Software development life cycle includes the steps to build a software product from inception to delivery. Following are the important steps in SDLC: 
+ Planning, Requirements, Design, Build, Document, Test, Deploy, Maintain,Support
+
+
+7a. What are the documentation that follow each phase?
+Planning - Business analysis documentation including business impacts and rules.
+Requirements - Requirement documentation including purpose, scope, functional and non-functional requirement.
+Design – design documentation including use scope, system, design of the software
+Build – technical specifications, API documenations
+Test- bug reports, test summary report
+
+8. What do you think your day-to-day tasks would be? 
+Review requirement documentation, write test condition and test cases, log defects and retest.
+
+9. If you join the team, at the end of 1 Month, 1 Quarter, 1 year what do you think are quantitave goals that measure your impact?
+1 Month – understand the software and test coverage guidelines
+1 quarter – work on high priority/critical defects, escalations
+1 year – maximize the % defects logged and reduce the number of escaped defects.
