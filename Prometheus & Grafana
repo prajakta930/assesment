@@ -1,0 +1,8 @@
+3. Prometheus & Grafana
+https://prometheus.io/docs/visualization/grafana/
+We want to use Prometheus & Grafana to monitor devices in the field.
+If we asked you to set this up what do you need?
+
+[1] Need the actual Prometheus server URL
+[2] Where is the Grafana server supposed to be hosted?
+[3] What is the purpose of the dashboard  such as user behaviour, application behaviour, frequency of errors
