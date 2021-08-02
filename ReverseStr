@@ -1,0 +1,18 @@
+
+class Solution(object):
+    def reverseStr(self, s):
+        """
+        :type s: str
+        :rtype: str
+        """
+        t = ''
+        stack = []
+        for i in s:
+            if i == '(':
+                stack += [t]
+                t = ''
+            elif i == ')':
+                t = stack.pop() + t[::-1]
+            else:
+                t += i
+        return t
